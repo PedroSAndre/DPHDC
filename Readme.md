@@ -6,7 +6,7 @@ use interface, both for beginner and experienced users, despite the considerable
 It is also worth emphasizing that DPHDC is designed to be compatible with any SYCL-capable compiler. To ensure that DPHDC works with a particular setup, unit tests were developed and are provided with the library. These can be executed to ensure that the behaviour of all implemented functionalities is as expected.
 
 ## Documentation
-Unfortunately, proper documentation for the library is not yet available due to time constraints. This should be fixed in the upcoming weeks.
+Unfortunately, proper documentation for the library is not yet available due to time constraints.
 
 ## How to compile the library and run the provided classification examples/unit tests
 Currently, DPHDC has only been tested on Ubuntu 20.04 LTS and Ubuntu 22.04 LTS using the Intel DPC++ compiler, although, as mentioned previously, it should be compatible with any SYCL-capable compiler.
